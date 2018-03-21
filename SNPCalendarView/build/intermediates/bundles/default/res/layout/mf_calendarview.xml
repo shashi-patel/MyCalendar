@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.shashikant.ExpandableScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+       
+        <RelativeLayout
+            android:id="@+id/header"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/calendar_top"
+            android:visibility="gone"
+            >
+
+            <RelativeLayout
+                android:id="@+id/previous"
+                android:layout_width="40dip"
+                android:layout_height="47dip"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="50dp"
+                >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_marginTop="50dp"
+                    android:background="@drawable/calendar_arrow_left" />
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="47dip"
+                android:layout_centerHorizontal="true"
+                android:gravity="center"
+                android:textColor="#FFFFFF"
+                android:textSize="18dip"
+                android:text="test"
+                android:textStyle="bold" />
+
+            <RelativeLayout
+                android:id="@+id/next"
+                android:layout_width="40dip"
+                android:layout_height="47dip"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="50dp">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/calendar_arrow_right" />
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/linearlayout_header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            >
+
+            <RelativeLayout
+                android:id="@+id/linearlayout_header_month"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp">
+                
+                <ImageView
+                    android:id="@+id/imageview_previous"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:src="@drawable/ic_previous"
+                    android:layout_alignParentLeft="true"/>
+
+                <TextView
+                    android:id="@+id/textview_month_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/transparent"
+                    android:text="Month"
+                    android:lines="1"
+                    android:textColor="#FFFFFF"
+                    android:textColorHint="#FFFFFF"
+                    android:textSize="@dimen/text_medium"
+                    android:layout_centerHorizontal="true"/>
+
+                <ImageView
+                    android:id="@+id/imageview_next"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:src="@drawable/ic_next"
+                    android:layout_alignParentRight="true"/>
+
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#FFFFFF"
+                android:layout_marginTop="5dp"/>
+
+            <LinearLayout
+                android:id="@+id/linearlayout_header_days"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="5dp">
+
+                <TextView
+                    android:id="@+id/textview_sunday"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@android:color/transparent"
+                    android:text="@string/sunday"
+                    android:lines="1"
+                    android:textColor="#FFFFFF"
+                    android:textColorHint="#FFFFFF"
+                    android:textSize="@dimen/text_medium"
+                    android:gravity="center_horizontal"/>
+
+                <TextView
+                    android:id="@+id/textview_monday"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@android:color/transparent"
+                    android:text="@string/monday"
+                    android:lines="1"
+                    android:textColor="#FFFFFF"
+                    android:textColorHint="#FFFFFF"
+                    android:textSize="@dimen/text_medium"
+                    android:gravity="center_horizontal"/>
+
+                <TextView
+                    android:id="@+id/textview_tuesday"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@android:color/transparent"
+                    android:text="@string/tuesday"
+                    android:lines="1"
+                    android:textColor="#FFFFFF"
+                    android:textColorHint="#FFFFFF"
+                    android:textSize="@dimen/text_medium"
+                    android:gravity="center_horizontal"/>
+
+                <TextView
+                    android:id="@+id/textview_wednesday"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@android:color/transparent"
+                    android:text="@string/wednesday"
+                    android:lines="1"
+                    android:textColor="#FFFFFF"
+                    android:textColorHint="#FFFFFF"
+                    android:textSize="@dimen/text_medium"
+                    android:gravity="center_horizontal"/>
+
+                <TextView
+                    android:id="@+id/textview_thrusday"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@android:color/transparent"
+                    android:text="@string/thrusday"
+                    android:lines="1"
+                    android:textColor="#FFFFFF"
+                    android:textColorHint="#FFFFFF"
+                    android:textSize="@dimen/text_medium"
+                    android:gravity="center_horizontal"/>
+
+                <TextView
+                    android:id="@+id/textview_friday"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@android:color/transparent"
+                    android:text="@string/friday"
+                    android:lines="1"
+                    android:textColor="#FFFFFF"
+                    android:textColorHint="#FFFFFF"
+                    android:textSize="@dimen/text_medium"
+                    android:gravity="center_horizontal"/>
+
+                <TextView
+                    android:id="@+id/textview_saturday"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@android:color/transparent"
+                    android:text="@string/saturday"
+                    android:lines="1"
+                    android:textColor="#FFFFFF"
+                    android:textColorHint="#FFFFFF"
+                    android:textSize="@dimen/text_medium"
+                    android:gravity="center_horizontal"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <com.shashikant.ExpandableHeightGridView
+            android:id="@+id/gridview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/linearlayout_header"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:listSelector="@android:color/transparent"
+            android:numColumns="7"
+            android:stretchMode="columnWidth" />
+
+    </RelativeLayout>
+
+</com.shashikant.ExpandableScrollView>

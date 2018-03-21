@@ -1,0 +1,382 @@
+[
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_launcher.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/layout_snp_calendarview.xml.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/layout/snp_calendarview.xml"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_dot_green.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_dot_green.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_dot_green.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_dot_green.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_dot_green.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_dot_green.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_calendar_arrow_left.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/calendar_arrow_left.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_ic_dot_green.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/ic_dot_green.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_calendar_arrow_right.xml.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-anydpi-v21/calendar_arrow_right.xml"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-tr-hdpi-v4_dot_red.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-tr-hdpi-v4/dot_red.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_calendar_arrow_left.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-ldpi-v4/calendar_arrow_left.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_dot_red.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_dot_red.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_calendar_arrow_right.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/calendar_arrow_right.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_previous.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_previous.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_calendar_arrow_right.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-ldpi-v4/calendar_arrow_right.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_ic_dot_green.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/ic_dot_green.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_ic_dot_red.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/ic_dot_red.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_dot_red.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_dot_red.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_calendar_cel_selectl.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/calendar_cel_selectl.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_ic_next.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/ic_next.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_ic_dot_red.xml.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-anydpi-v21/ic_dot_red.xml"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_ic_dot_green.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-ldpi-v4/ic_dot_green.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/layout_mf_calendarview.xml.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/layout/mf_calendarview.xml"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_calendar_arrow_left.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/calendar_arrow_left.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_calendar_arrow_left.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/calendar_arrow_left.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_ic_next.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-ldpi-v4/ic_next.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_dot_red.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_dot_red.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_calendar_arrow_right.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/calendar_arrow_right.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_calendar_arrow_left.xml.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-anydpi-v21/calendar_arrow_left.xml"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/layout_calendar_item.xml.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/layout/calendar_item.xml"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_ic_previous.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-ldpi-v4/ic_previous.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_calendar_arrow_left.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/calendar_arrow_left.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_dot_red.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_dot_red.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_calendar_cell.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/calendar_cell.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_launcher.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_calendar_arrow_right.xml.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-anydpi-v21/calendar_arrow_right.xml"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_bg.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-mdpi-v4/bg.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_bg.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/bg.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_calendar_arrow_right.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/calendar_arrow_right.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_calendar_arrow_right.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/calendar_arrow_right.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_dot_red.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_dot_red.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_calendar_arrow_right.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/calendar_arrow_right.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_ic_dot_green.xml.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-anydpi-v21/ic_dot_green.xml"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_next.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_next.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_calendar_arrow_left.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/calendar_arrow_left.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_ic_next.xml.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-anydpi-v21/ic_next.xml"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_dot_green.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_dot_green.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_previous.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_previous.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_launcher.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_ic_dot_green.xml.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-anydpi-v21/ic_dot_green.xml"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_bg.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/bg.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_dot_red.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_dot_red.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_previous.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_previous.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_ic_dot_red.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/ic_dot_red.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_dot.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/dot.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-tr-hdpi-v4_calendar_top.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-tr-hdpi-v4/calendar_top.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_calendar_arrow_right.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-mdpi-v4/calendar_arrow_right.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_previous.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_previous.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_calendarback.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/calendarback.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_dot_green.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_dot_green.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_next.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_next.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_ic_previous.xml.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-anydpi-v21/ic_previous.xml"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_calendar_top.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/calendar_top.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_calendar_arrow_left.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-ldpi-v4/calendar_arrow_left.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_dot_red.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/dot_red.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable_list_item_background.xml.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable/list_item_background.xml"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_calendar_arrow_right.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/calendar_arrow_right.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_calendar_arrow_left.xml.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-anydpi-v21/calendar_arrow_left.xml"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_list_item_background.xml.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/list_item_background.xml"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_calendar_arrow_right.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-ldpi-v4/calendar_arrow_right.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_bg.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bg.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_dot_green.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_dot_green.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_launcher.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_dot_red.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_dot_red.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_ic_dot_red.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-ldpi-v4/ic_dot_red.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_calendar_arrow_left.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/calendar_arrow_left.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_calendar_arrow_right.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-mdpi-v4/calendar_arrow_right.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_calendar_arrow_left.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/calendar_arrow_left.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable_list_item_background.xml.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/drawable/list_item_background.xml"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_dot_green.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_dot_green.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_next.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_next.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/layout_snp_calendarview.xml.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/layout/snp_calendarview.xml"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_ic_dot_red.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-ldpi-v4/ic_dot_red.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_dot_green.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_dot_green.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_calendar_arrow_right.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/calendar_arrow_right.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_calendar_arrow_left.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/calendar_arrow_left.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_ic_dot_green.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-ldpi-v4/ic_dot_green.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_dot_red.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_dot_red.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_bg.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/bg.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/layout_calendar_item.xml.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/layout/calendar_item.xml"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_calendar_arrow_right.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/calendar_arrow_right.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_calendar_arrow_left.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Demo Apps/CalendarDemo/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-mdpi-v4/calendar_arrow_left.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_calendar_arrow_left.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-mdpi-v4/calendar_arrow_left.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_ic_dot_red.xml.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-anydpi-v21/ic_dot_red.xml"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_next.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_next.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_ic_previous.png.flat",
+        "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/ic_previous.png"
+    }
+]

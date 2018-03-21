@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/home/shashi/Android Studio Workspace/Scuto/Scuto Vendor/SNPCalendarView/build/intermediates/bundles/debug/res/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,159,215,263,311,353,396,438",
+                        "endLines": "2,3,4,5,6,7,8,9,12",
+                        "endColumns": "45,57,55,47,47,41,42,41,12",
+                        "endOffsets": "96,154,210,258,306,348,391,433,570"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml:1:1-16:12
+	package
+		ADDED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml:2:5-41
+		INJECTED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml
+		INJECTED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml
+		INJECTED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml
+		INJECTED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml:6:5-8:41
+INJECTED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml:6:5-8:41
+INJECTED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml:6:5-8:41
+INJECTED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml:6:5-8:41
+INJECTED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml:8:9-38
+		INJECTED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml
+		INJECTED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml:7:9-35
+		INJECTED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml
+		INJECTED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml
+application
+ADDED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml:10:5-14:19
+	android:label
+		ADDED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml:12:9-41
+	android:allowBackup
+		ADDED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml:11:9-36
+	android:theme
+		ADDED from /home/shashi/Android Studio Workspace/Demo Apps/MyCalendar/SNPCalendarView/src/main/AndroidManifest.xml:13:9-40

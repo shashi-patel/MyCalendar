@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4/ic_next.png",
+        "source": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-ldpi-v4/ic_next.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4/ic_previous.png",
+        "source": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-ldpi-v4/ic_previous.png"
+    }
+]

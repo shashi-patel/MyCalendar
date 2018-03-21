@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="actionbar_text">20dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="text_extra_large">18dp</dimen>
+    <dimen name="text_extra_small">10dp</dimen>
+    <dimen name="text_large">16dp</dimen>
+    <dimen name="text_medium">14dp</dimen>
+    <dimen name="text_small">12dp</dimen>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style>
+</resources>

@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_next.png",
+        "source": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_next.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_previous.png",
+        "source": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_previous.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/calendar_top.png",
+        "source": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/calendar_top.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/bg.png",
+        "source": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/bg.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/list_item_background.xml",
+        "source": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/list_item_background.xml"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/calendar_cel_selectl.png",
+        "source": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/calendar_cel_selectl.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/dot_red.png",
+        "source": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/dot_red.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/dot.png",
+        "source": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/dot.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/calendar_arrow_left.png",
+        "source": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/calendar_arrow_left.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/calendar_arrow_right.png",
+        "source": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/calendar_arrow_right.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/calendarback.png",
+        "source": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/calendarback.png"
+    },
+    {
+        "merged": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/calendar_cell.png",
+        "source": "/home/shashi/Android Studio Workspace/MOTS/Motosurgeon/SNPCalendarView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/calendar_cell.png"
+    }
+]
