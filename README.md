@@ -19,11 +19,10 @@ You must declare the following view in your xml layout:
         android:id="@+id/snpcv_demo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
-
+```
 implement following method in your class:
 
 ```java
-
 snpcv_demo.setOnCalendarViewListener(new onSNPCalendarViewListener() {
       @Override
       public void onDateChanged(String date) {
@@ -34,6 +33,8 @@ snpcv_demo.setOnCalendarViewListener(new onSNPCalendarViewListener() {
       public void onDisplayedMonthChanged(int month, int year, String monthStr) {
       }
 });
+
+```
 
 Developed By
 --------------------
