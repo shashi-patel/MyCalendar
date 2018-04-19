@@ -24,6 +24,22 @@ dependencies {
     implementation 'com.github.shashi180493:MyCalendar:1.0'
 }
 ```
+Maven
+-----
+```
+<repositories>
+	<repository>
+	    <id>jitpack.io</id>
+	    <url>https://jitpack.io</url>
+	</repository>
+</repositories>
+
+<dependency>
+    <groupId>com.github.shashi180493</groupId>
+    <artifactId>MyCalendar</artifactId>
+    <version>1.0</version>
+</dependency>
+```
 
 Usage
 -----
