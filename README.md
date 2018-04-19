@@ -8,6 +8,7 @@ Android fully customizable calendar
 </p>
 
 I would appreciate any kind of help to improve this library. Thanks
+
 Gradle
 ------
 ```
