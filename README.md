@@ -12,6 +12,23 @@ I would appreciate any kind of help to improve this library. Thanks
 Usage
 -----
 
+#### To use Library include jitpak.io in root level gradle file 
+
+  ```allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+  ```
+  
+  #### Also add include this line in app level gradle file 
+  
+ ``` dependencies {
+	        implementation 'com.github.shashi180493:MyCalendar:1.0'
+	}
+```
+
 You must declare the following view in your xml layout:
 
 ```xml
