@@ -1,5 +1,6 @@
 MyCalendar
 ===========
+[![](https://jitpack.io/v/shashi180493/MyCalendar.svg)](https://jitpack.io/#shashi180493/MyCalendar)
 
 Android fully customizable calendar 
 
